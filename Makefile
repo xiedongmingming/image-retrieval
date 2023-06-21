@@ -1,4 +1,3 @@
-
 up:
 	sh scripts/devcontainer.sh up
 

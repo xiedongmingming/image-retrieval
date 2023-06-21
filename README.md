@@ -1,6 +1,6 @@
 ## 图片向量检索服务构建
 
-该系统使用VGG（图像特征提取模型）和Numpy、Faiss、ES、Milvus构建了图像搜索流程。 系统架构如下：
+该系统使用VGG（图像特征提取模型）和NUMPY、FAISS、ES、MILVUS构建了图像搜索流程。系统架构如下：
 
 <img src="pic/system_arch.png" width = "250" height = "300" alt="system_arch" align=center />
 
